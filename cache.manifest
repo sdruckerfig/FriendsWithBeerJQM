@@ -1,0 +1,16 @@
+CACHE MANIFEST
+#version 9
+
+index.html
+localdb.js
+resources/stylesheets/screen.css
+http://code.jquery.com/jquery-1.7.1.min.js
+http://code.jquery.com/mobile/1.1.1/jquery.mobile-1.1.1.min.css
+http://ajax.microsoft.com/ajax/jquery.templates/beta1/jquery.tmpl.min.js
+/CFIDE/scripts/ajax/messages/cfmessage.js
+/CFIDE/scripts/ajax/package/cfajax.js
+/CFIDE/scripts/ajax/package/cfwebsocketCore.js
+/CFIDE/scripts/ajax/package/cfwebsocketChannel.js
+
+NETWORK:
+*
